@@ -4,13 +4,13 @@
 
 ## 界面
 
-![image-20240527225940517](C:\Users\GuoJeongeun\AppData\Roaming\Typora\typora-user-images\image-20240527225940517.png)
+![login](images/login.png)
 
-![image-20240527225959820](C:\Users\GuoJeongeun\AppData\Roaming\Typora\typora-user-images\image-20240527225959820.png)
+![list](images/list.png)
 
-![image-20240527230309652](C:\Users\GuoJeongeun\AppData\Roaming\Typora\typora-user-images\image-20240527230309652.png)
+![add](images/add.png)
 
-![image-20240527230324815](C:\Users\GuoJeongeun\AppData\Roaming\Typora\typora-user-images\image-20240527230324815.png)
+![update](images/update.png)
 
 ## 其他
 
